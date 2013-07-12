@@ -25,7 +25,8 @@ Another problem might be that you cannot start the application. If this is the c
 
 
 # About
-
+Need help? Visit the [wiki](../../wiki/)! 
 
 ## Programming routines
 In order to create a routine that the computer should execute, you have to do a little coding, which is actually quite simple. For starters, press "Generate Sample Data" and look at the files. The commands are fairly self-explanatory. 
+If you need more help, view the [FarmingBot programming language documentation](../../wiki/FarmingBot-Programming-Language). 
