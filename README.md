@@ -6,6 +6,10 @@ This is the first project that I am hosting on GitHub, although I programmed thi
 I am going to add a feature so that you can record the routines by actually doing them, instead of writing the code. 
 
 
+## Screenshot
+![Application screenshot](README/Screenshot.png)
+
+
 ## Installing
 Please note that this application was programmed in Visual Basic and therefore only works on the Windows operating system. 
 
