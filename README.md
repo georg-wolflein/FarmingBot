@@ -9,6 +9,8 @@ I am going to add a feature so that you can record the routines by actually doin
 ## Screenshot
 ![Application screenshot](README/Screenshot.png)
 
+This shows the application's main window. 
+
 
 ## Installing
 Please note that this application was programmed in Visual Basic and therefore only works on the Windows operating system. 
