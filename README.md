@@ -17,11 +17,11 @@ Please note that this application was programmed in Visual Basic and therefore o
 
 
 ### Setup
-If you want to do a full setup (install it on your computer) open [FarmingBot/publish/](FarmingBot/publish/) and execute [setup.exe](FarmingBot/publish/setup.exe). This will correctly install it on your machine. Alternatly, you can download "publish.zip" from the latest [release](releases). 
+If you want to do a full setup (install it on your computer) open [FarmingBot/publish/](FarmingBot/publish/) and execute [setup.exe](FarmingBot/publish/setup.exe). This will correctly install it on your machine. Alternatly, you can download "publish.zip" from the latest [release](../../releases). 
 
 
 ### Just to try
-If you do not want a full installation and just want to test it, navigate to [FarmingBot/publish/Application Files](FarmingBot/publish/Application Files) and open the latest version of FarmingBot. Then, execute FarmingBot.exe. Have fun! Alternatly, you can download "publish.zip" from the latest [release](releases). 
+If you do not want a full installation and just want to test it, navigate to [FarmingBot/publish/Application Files](FarmingBot/publish/Application Files) and open the latest version of FarmingBot. Then, execute FarmingBot.exe. Have fun! Alternatly, you can download "publish.zip" from the latest [release](../../releases). 
 
 
 ### Problems
